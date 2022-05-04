@@ -1,5 +1,9 @@
 # SMLProject
 
+## Title 
+Telecom Churn Rate
+
+
 ## Author
-Nihal Desai
+Nihal Desai \n
 Santosh Saranyan
