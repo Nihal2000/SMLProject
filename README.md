@@ -1,7 +1,7 @@
 # SMLProject
 
 ## Title 
-Telecom Churn Rate
+Telecom Customer Churn  
 
 
 ## Author
