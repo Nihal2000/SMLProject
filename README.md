@@ -5,5 +5,6 @@ Telecom Customer Churn
 
 
 ## Author
-Nihal Desai \n
+Nihal Desai 
+
 Santosh Saranyan
